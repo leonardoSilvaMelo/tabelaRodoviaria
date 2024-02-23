@@ -1,0 +1,18 @@
+table{
+    background-color: rgb(43, 37, 37);
+    border-style: solid;
+    text-align: center;
+}
+
+tr{
+    color: white;
+}
+
+.titulo{
+    background-color: chartreuse;
+}
+
+.oi{
+    background-color: rgb(255, 92, 92);
+}
+
